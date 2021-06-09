@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shubhan Singh @shubh-2012
+- 👋 Hi, I’m Shubham Singh @shubh-2012
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning OOP with Java.
 - 💞️ I’m looking to collaborate on frontend development projects.
